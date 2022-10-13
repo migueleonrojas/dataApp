@@ -2,9 +2,12 @@
  "users":[
   {
     "id": 1,
+    "names": "Miguel Eloy",
+    "last_name": "Leon Rojas",
     "phone": "584125853626",
     "mail": "migueleonrojas@gmail.com",
-    "password": "Venezuela.2023"
+    "password": "Venezuela.2023",
+    "passwordTmp": ""
   }
  ] 
 }
